@@ -1,0 +1,55 @@
+E:\t\test.dat
+
+${__CSVRead(E:\t\test.dat,1)}
+
+
+E:\t\test.txt
+
+
+jdbc:mysql://localhost:3306/test
+org.git.mm.mysql.Driver
+
+'yonghuming','mima'
+varchar,varchar
+username,passwrod
+
+1 教师绩效
+2 学生综合素养
+3 成绩分析
+4 德育考核系统
+5 招生系统
+
+http://www.pubedu.cn:3001/lcconsole/login!getSSOMessage.action
+
+账号是administrator
+密码lcsoft12
+
+ 个人中心
+ 个人中心
+ 会员管理
+ 系统管理
+
+
+招聘发布
+招聘简历查看
+用户管理
+学生管理(中美)
+学生管理(中招)
+学生管理(特长生)
+公告管理
+学校用户统计
+问卷调查设置
+问卷统计
+首页连接设置
+主客观题设置
+
+
+
+
+
+
+
+
+
+
+
